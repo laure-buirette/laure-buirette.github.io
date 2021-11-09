@@ -432,6 +432,12 @@ a:focus {
     letter-spacing: 1px;
     text-transform: uppercase;
     background: #c1cbd9;
+    padding: 3px;
+    margin: 5px;
+}
+
+.nt {
+    padding : 3px;
 }
 
 .section-header p::before {
