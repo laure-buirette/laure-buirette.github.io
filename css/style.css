@@ -1,6 +1,10 @@
 /*******************************/
 /********* General CSS *********/
 /*******************************/
+head {
+   background-color: white;
+}
+
 body {
     color: #797979;
     background: #ffffff;
@@ -223,7 +227,7 @@ a:focus {
     }
     
     .navbar .navbar-brand {
-        color: #EF233C;
+        color: #1548b0;
     }
     
     .navbar .navbar-nav {
@@ -1051,4 +1055,6 @@ a:focus {
         padding: 0 5px;
         
     }
+    
+ 
 }
