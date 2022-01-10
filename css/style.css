@@ -25,10 +25,15 @@ a {
     transition: .3s;
 }
 
+
+a:hover center{
+   color : 1548b0;
+}
+
 a:hover,
 a:active,
 a:focus {
-    color: black;
+    color: 1548b0;
     outline: none;
     text-decoration: none;
 }
